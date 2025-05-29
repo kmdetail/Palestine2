@@ -31,7 +31,7 @@
 
 	"uniqueName": "Ard al-Muqaddasa",
 	"uniques": [
-	"Rebel units may spawn <in [enemy cities] cities> <when at war>"
+	"Rebel units may spawn <[{in enemy cities, Enemy}]> <when at war>"
 	"[+15]% [Faith] [in cities following our religion]"],
 		"cities": ["Jerusalem","Gaza","Bethlehem","Nablus","Hebron","Tulkarm","Jericho","Qalqilya","Tubas",
 			"Jenin","Al-Bireh","Bayt Jala","Halhul","Bayt Sahur","Bani Suhelia","Beitunia","Ad-Dhahiriya","Idhna","Ramallah",
