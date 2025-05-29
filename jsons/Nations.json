@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Hamas",
+		"leaderName": "Yahya Zinwar",
+		"adjective": ["Rebel"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome to our holy lands!",
+		"startIntroPart2": "By Allah, we will take what is rightfully ours and protect our people.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "By Allah's grace, our lands will be returned to us through blood",
+		"attacked": "We will defend our people to the end against barbarians like you.",
+		"defeated": "And so our flaming passion is snuffed out, Allah guide us for what comes next.",
+		"introduction": "It is a pleasure for our peoples to meet, respect whats ours and Allah will be with you.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Assalamualaikum, peace be unto you.",
+		"neutralLetsHearIt": ["Speak.","Think wisely on your choice","Let the talks commence."],
+		"neutralNo": ["This is unacceptable","A cruel joke?","I refuse."],
+		"neutralYes": ["All is well.","Of course, yes.","Quite generous."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "The end is coming soon, can you feel it?",
+		"hateLetsHearIt": ["Its your meeting, Why dont you start talking?","Well?","mhm."],
+		"hateNo": ["This is an insult to my people!","Insufferable.","Thats your version of a good idea?"],
+		"hateYes": ["Praise Allah.","That is good enough.","Right, on your way."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Allah guides us all, may his wisdom and mercy help both our peoples rebuild.",
+		"tradeRequest": "From one great leader to another, please accept this offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [211,211,211],
+		"innerColor": [50,205,50],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Jerusalem","Gaza","Bethlehem","Nablus","Hebron","Tulkarm","Jericho","Qalqilya","Tubas",
+			"Jenin","Al-Bireh","Bayt Jala","Halhul","Bayt Sahur","Bani Suhelia","Beitunia","Ad-Dhahiriya","Idhna","Ramallah",
+			"Rafah","Khan Yunis","Jabalia","Beit Hanoun","Deir al Balah","Beit Lahia","Qabatiya","Abasan Al-Kabira","as-Samu","Si'ir",
+			"Bani naim","Yamun","Az Zawayda","Beit Ummar","Ya'Bad","Abu Dis"]
 	}
 ]
