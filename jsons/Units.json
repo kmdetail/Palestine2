@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Rebel Fighter",
-		"unitType": "Ranged",
-		"uniqueTo": "Hamas",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Industrialization",
-		"requiredResource": "None",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+	"name": "Fedayeen",
+	"uniqueTo": "Palestine",
+	"replaces": "Marine",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 60,
+	"cost": 370,
+	"requiredTech": "Pharmaceuticals",
+	"promotions": ["Cover I"],
+	"uniques": ["[+15]% Strength <when between [-1] and [-5] Happiness>", "[+20]% Strength <when between [-5] and [-10] Happiness>"],
+	"attackSound": "shot"
+},
 ]
