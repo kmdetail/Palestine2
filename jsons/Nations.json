@@ -31,7 +31,7 @@
 
 	"uniqueName": "Ard al-Muqaddasa",
 	"uniques": [
-	"<when at war> Rebel units may spawn <[in enemy cities]>"
+	"<when at war> Rebel units may spawn <in enemy cities>"
 	"[+15]% [Faith] [in cities following our religion]"
 	"Militaristic City-States grant units [5] times as fast when you are at war with a common nation"],
 		"cities": ["Jerusalem","Gaza","Bethlehem","Nablus","Hebron","Tulkarm","Jericho","Qalqilya","Tubas",
