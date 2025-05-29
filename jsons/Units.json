@@ -9,7 +9,7 @@
 	"cost": 370,
 	"requiredTech": "Pharmaceuticals",
 	"promotions": ["Cover I"],
-	"uniques": ["[+15]% Strength <when between [-1] and [-5] Happiness>", "[+20]% Strength <when between [-5] and [-10] Happiness>"],
+	"uniques": ["[+20]% Strength <when between [-1] and [-5] Happiness>", "[+30]% Strength <when between [-5] and [-100] Happiness>"],
 	"attackSound": "shot"
 },
 ]
