@@ -26,10 +26,13 @@
 		
 		"afterPeace": "Allah guides us all, may his wisdom and mercy help both our peoples rebuild.",
 		"tradeRequest": "From one great leader to another, please accept this offer.",
+	"innerColor": [194, 168, 120],
+	"outerColor": [32, 80, 34],
 
-		"outerColor": [211,211,211],
-		"innerColor": [50,205,50],
-		"unique": "MANIFEST_DESTINY",
+	"uniqueName": "Ard al-Muqaddasa",
+	"uniques": [
+	"Rebel units may spawn <in [enemy cities] cities> <when at war>"
+	"[+15]% [Faith] [in cities following our religion]"],
 		"cities": ["Jerusalem","Gaza","Bethlehem","Nablus","Hebron","Tulkarm","Jericho","Qalqilya","Tubas",
 			"Jenin","Al-Bireh","Bayt Jala","Halhul","Bayt Sahur","Bani Suhelia","Beitunia","Ad-Dhahiriya","Idhna","Ramallah",
 			"Rafah","Khan Yunis","Jabalia","Beit Hanoun","Deir al Balah","Beit Lahia","Qabatiya","Abasan Al-Kabira","as-Samu","Si'ir",
